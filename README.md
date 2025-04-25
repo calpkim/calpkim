@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi I'm calpkim
+## I am a begginer coder here on Github. I got in thanks to my friend [arzejames](https://github.com/arzejames)
+### I code in HTML, CSS, Python, C++, and JavaScript
 
 <!--
 **calpkim/calpkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
