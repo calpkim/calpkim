@@ -1,5 +1,5 @@
 ## Hi I'm calpkim
-## I am a begginer coder here on Github. I got in thanks to my friend [arzejames](https://github.com/arzejames)
+## I am a beginner coder here on Github. I got in thanks to my friend [arzejames](https://github.com/arzejames)
 ### I code in HTML, CSS, Python, C++, and JavaScript
 
 <!--
